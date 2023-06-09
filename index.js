@@ -1,0 +1,28 @@
+const wordsChanger = require("./htmlChanger");
+const words = [
+  "criptovalute",
+  "criptovaluta",
+  "crypto",
+  "software",
+  "trading",
+  "trader",
+  "COVID-19",
+  "Tesler",
+  "finanziaria",
+  "finanziario",
+  "fintech",
+  "finanziari",
+  "marketing",
+  "mercato",
+  "commerciali",
+  "commercia",
+  "OPERAZIONI",
+  "algoritmi",
+  "algoritmica",
+  "CAPITALIZZA",
+  "GRATIS",
+  "GRATUITAMENTE",
+  "GRATUITO",
+  "gratuita",
+];
+wordsChanger(words);
